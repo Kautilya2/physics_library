@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: physics-lib24
+Version: 0.1.0
+Summary: A Python physics library for 2D and 3D simulations
+Author: Kautilya Katariya
+Author-email: katariya.i@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

@@ -1,0 +1,5 @@
+setup.py
+physics_lib24.egg-info/PKG-INFO
+physics_lib24.egg-info/SOURCES.txt
+physics_lib24.egg-info/dependency_links.txt
+physics_lib24.egg-info/top_level.txt
